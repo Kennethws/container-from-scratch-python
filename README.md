@@ -5,5 +5,5 @@ This is building a container from scratch.
 
 ```bash
 docker pull kennethws/cloudapp:latest
-docker run -it dockercli bash
+docker run -it kennethws/cloudapp bash
 ```
